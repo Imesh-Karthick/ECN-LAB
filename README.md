@@ -42,11 +42,12 @@
   
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
 
+
 **TABULAR COLUMN:**
 ![31501cae-b487-4411-bc4a-c2bd5796f0bd](https://github.com/user-attachments/assets/4eeade69-9f4e-4588-90eb-a04830bf04a6)
 
 
 **RESULT:**
 
-*ThusKirchoff’s Current Law and Kirchoff’s Voltage law are verified practically and theoretically.*
+*Thus Kirchoff’s Current Law and Kirchoff’s Voltage law are verified practically and theoretically.*
 
